@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "dccl--responsive-mini-blog-card",
+			"path": "../../../Downloads/dccl--responsive-mini-blog-card/dccl--responsive-mini-blog-card"
+		},
+		{
+			"name": "Minimal_Blog_Card",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Minimal_Blog_Card"
+	}
+}
