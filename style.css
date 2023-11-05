@@ -42,6 +42,8 @@ body{
 img{
     width: 100%;
     height: 100%;
+    border-radius:15px;
+    object-fit: cover;
 }
 
 .card-tag{
@@ -60,12 +62,6 @@ img{
     font-weight: 600;
 }
 
-.card-img img{
-    object-fit: cover;
-    width: 100%;
-    height: 100%s;
-    border-radius:15px ;
-}
 .card-body{
     margin-bottom: 16px;
     margin-left: 20px;
